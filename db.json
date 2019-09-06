@@ -2,7 +2,7 @@
   "posts":[
     {
       "id": 1,
-      "name": "erik",
+      "name": "Erik Olle",
       "username": "Erkan67",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco",
       "comments":"10",
@@ -36,7 +36,7 @@
       "retweets":"12"
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "erik",
       "username": "Erkan67",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -45,7 +45,7 @@
       "retweets":"12"
     },
     {
-      "id": 2,
+      "id": 6,
       "name": "Leanne Graham",
       "username": "Bret",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -54,7 +54,7 @@
       "retweets":"122"
     },
     {
-      "id": 3,
+      "id": 7,
       "name": "Ervin Howell",
       "username": "Antonette",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -62,7 +62,7 @@
       "likes":"32",
       "retweets":"5"
     },{
-      "id": 4,
+      "id": 8,
       "name": "Clementine Bauch",
       "username": "Samantha",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -71,7 +71,7 @@
       "retweets":"12"
     },
     {
-      "id": 1,
+      "id": 9,
       "name": "erik",
       "username": "Erkan67",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -80,7 +80,7 @@
       "retweets":"12"
     },
     {
-      "id": 2,
+      "id": 10,
       "name": "Leanne Graham",
       "username": "Bret",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -89,7 +89,7 @@
       "retweets":"122"
     },
     {
-      "id": 3,
+      "id": 11,
       "name": "Ervin Howell",
       "username": "Antonette",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -97,7 +97,7 @@
       "likes":"32",
       "retweets":"5"
     },{
-      "id": 4,
+      "id": 12,
       "name": "Clementine Bauch",
       "username": "Samantha",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -106,7 +106,7 @@
       "retweets":"12"
     },
     {
-      "id": 1,
+      "id": 13,
       "name": "erik",
       "username": "Erkan67",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -115,7 +115,7 @@
       "retweets":"12"
     },
     {
-      "id": 2,
+      "id": 14,
       "name": "Leanne Graham",
       "username": "Bret",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -124,7 +124,7 @@
       "retweets":"122"
     },
     {
-      "id": 3,
+      "id": 15,
       "name": "Ervin Howell",
       "username": "Antonette",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco",
@@ -132,7 +132,7 @@
       "likes":"32",
       "retweets":"5"
     },{
-      "id": 4,
+      "id": 16,
       "name": "Clementine Bauch",
       "username": "Samantha",
       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
